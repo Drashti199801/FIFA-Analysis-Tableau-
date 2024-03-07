@@ -4,14 +4,21 @@ This project involves building a Tableau dashboard using a dataset containing de
 
 ![image](https://github.com/Drashti199801/FIFA-Analysis-Tableau-/assets/156224544/0e07ed83-a66d-4a32-aeae-dda524227b10)
 
-**Insights from dashboard**
+# Insights from dashboard
 
   i.   Explore the top 10 countries excelling in penalty skills.
+  
   ii.  Analyze player loyalty through the distribution of time spent at their current clubs.
+  
   iii. Visualize the global distribution of football talent on an interactive map.
+  
   iv.  Understand the economic dynamics of player contracts with a wage vs. value comparison.
+  
   v.   Examine the distribution of players based on their preferred foot.
+  
   vi.  Identify the top 5 countries contributing the most players to the dataset.
+  
   vii. Gain insights into the distribution of player ratings, providing a comprehensive view of talent levels.
+  
   viii.This interactive Tableau dashboard offers a holistic exploration of football player attributes, demographics, and performance metrics.
 
